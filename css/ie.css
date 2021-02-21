@@ -1,0 +1,14 @@
+.slide{
+	position: static !important;
+	width: 33.333% !important;
+}
+.search-form input[type="search"],
+.search-form input[type="text"]{
+	line-height: 40px;
+}
+body{
+	min-width: 1680px;
+}
+.post time{
+	padding: 3px 23px;
+}
